@@ -1,0 +1,3 @@
+[0815/050800.546:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0815/050801.577:ERROR:exception_snapshot_win.cc(98)] thread ID 2964 not found in process
+[0815/050801.587:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
