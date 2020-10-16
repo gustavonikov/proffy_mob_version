@@ -25,5 +25,4 @@ export default function App() {
         );
     }
 }
-// já vem embutido display flex
 
